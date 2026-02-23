@@ -3,12 +3,12 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "McKee"
   given-names: "Len"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+  orcid: "https://orcid.org/0009-0001-3333-8919"
+- family-names: "McKee"
+  given-names: "Jennifer"
+  orcid: "https://orcid.org/0000-0001-7453-5567"
 title: "RegEx"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+doi: 
 date-released: 2026-02-20
 url: "https://github.com/lenciabeltran/RegEx"
